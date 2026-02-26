@@ -1,0 +1,5 @@
+a=input("enter the string:")
+print("upper case:",a.upper())
+print("lower case:",a.lower())
+print("first letter capitalize:",a.capitalize())
+print("length of string :",len(a))

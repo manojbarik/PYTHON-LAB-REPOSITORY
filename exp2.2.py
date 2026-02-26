@@ -1,0 +1,5 @@
+a=input("enter the first name :")
+b=input("enter the mid name:")
+c=input("enter the last name:")
+con=(a + b + c)
+print("the concatentaion value should be:",a,b,c)
